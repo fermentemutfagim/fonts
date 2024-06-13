@@ -78,20 +78,20 @@
   src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-MediumItalic.ttf) format('truetype');
 }
 
-/* SemiBold */
+/* Semibold */
 @font-face {
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 600;
-  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-SemiBold.ttf) format('truetype');
+  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-Semibold.ttf) format('truetype');
 }
 
-/* SemiBold italic */
+/* Semibold italic */
 @font-face {
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 600;
-  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-SemiBoldItalic.ttf) format('truetype');
+  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-SemiboldItalic.ttf) format('truetype');
 }
 
 /* Bold */
@@ -110,20 +110,20 @@
   src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-BoldItalic.ttf) format('truetype');
 }
 
-/* ExtraBold */
+/* Extrabold */
 @font-face {
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 800;
-  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-ExtraBold.ttf) format('truetype');
+  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-Extrabold.ttf) format('truetype');
 }
 
-/* ExtraBold italic */
+/* Extrabold italic */
 @font-face {
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 800;
-  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-ExtraBoldItalic.ttf) format('truetype');
+  src: url(https://fermentemutfagim.github.io/fonts/gilroy/Gilroy-ExtraboldItalic.ttf) format('truetype');
 }
 
 /* Black */
